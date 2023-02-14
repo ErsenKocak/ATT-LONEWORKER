@@ -1,0 +1,6 @@
+flutter_native_splash:
+  image: "assets/images/app/att_logo.png"
+  android_disable_fullscreen: false
+  android: true
+  ios: true
+  color: "#FFFFFF"

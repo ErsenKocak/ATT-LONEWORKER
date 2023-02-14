@@ -1,0 +1,50 @@
+{ 
+    "SECONDS":"seconds",
+    "NAME_HOME":"Home",
+    "NAME_SETTINGS":"Settings",
+    "CLOSE":"Close",
+    "LOCATION_PERMISSION":"Please Give Location Permission From Settings",
+    "PERMISSION_REQUIRED":"Permission Required",
+    "OPEN_SETTINGS":"Open Settings",
+
+    "LOGIN": {
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "REMEMBER_ME": "Remember me",
+    "LOGIN": "Login",
+    "USERNAME_EMPTY":"Username cannot be empty",
+    "PASSWORD_EMPTY":"Password cannot be empty",
+    "LOGOUT": "Logout"
+    },
+    "HOME": {
+        "APPBAR_TITLE": "Home Screen",
+        "CURRENT_LOCATION": "Current Location",
+        "GPS_ENABLED": "GPS Enabled",
+        "SERVICES": "Services",
+        "ALARM_SETTINGS": "Alarm Settings",
+        "ALARM_VOLUME": "Alarm Volume",
+        "BATTERY_SETTINGS": "Battery Settings",
+        "BATTERY_ALARM": "Battery Alarm",
+        "BATTERY_CONDITION": "Battery Condition",
+        "TILT_ALERT": "Tilt Alert",
+        "LOCATION_SETTINGS": "Location Settings"
+
+        
+    },
+    "SETTINGS": {
+        "APP_BAR_TITLE": "Settings"
+        
+    },
+    "TILT_SETTINGS": {
+        "TILT_ANGLE": "Tilt Angle",
+        "DURATION_IN_ALARM_SITUATION": "Duration in Alarm Situation",
+        "DURATION_OF_THE_PRE_ALARM": "Duration of the Pre-Alarm"
+    },
+    "BATTERY_SETTINGS": {
+        "DURATION_IN_BATTERY_ALARM_SITUATION": "Duration in Battery Alarm Situation"
+    },
+    "LOCATION_SETTINGS": {
+        "DURATION_IN_LOCATION_ALARM_SITUATION": "Duration in Location Alarm"
+    }
+   
+}
